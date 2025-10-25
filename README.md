@@ -19,8 +19,8 @@ I enjoy solving technical problems, optimizing processes, and learning new ways 
 ### 🔹 Data & Development Tools
 - **Power BI, Dash**    
 - **Docker, Jenkins**    
-- **FastAPI, Django**–   
-- **Git/GitHub** –  
+- **FastAPI, Django**   
+- **Git/GitHub**   
 - **Linux, VS Code, Cursor**   
 
 ### 🔹 Web Development 
