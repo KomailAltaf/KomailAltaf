@@ -11,17 +11,17 @@ I enjoy solving technical problems, optimizing processes, and learning new ways 
 ## 🛠️ Core Skills
 
 ### 🔹 Programming
-- **Python** –   
-- **SQL** –   
-- **JavaScript & PHP** –   
-- **Bash (Basic)** –   
+- **Python**    
+- **SQL**    
+- **JavaScript & PHP**    
+- **Bash**   
 
 ### 🔹 Data & Development Tools
-- **Power BI, Dash** –   
-- **Docker, Jenkins** –   
-- **FastAPI, Django** –   
+- **Power BI, Dash**    
+- **Docker, Jenkins**    
+- **FastAPI, Django**–   
 - **Git/GitHub** –  
-- **Linux, VS Code** –  
+- **Linux, VS Code, Cursor**   
 
 ### 🔹 Web Development 
 - Advanced **WordPress** development (themes, ACF, WooCommerce)  
