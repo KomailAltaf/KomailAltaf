@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Komail Altaf
 
-I’m a **Backend Engineer (Python & Automation)** with **6+ years of professional experience**, building and maintaining production systems across web, backend, and data-heavy environments.
+I’m a backend engineer with over 6+ years of professional experience, building and maintaining production systems across web, backend, and data-heavy environments.
 
-I work primarily with **Python** to design APIs, data pipelines, and automation workflows that are reliable, scalable, and easy to maintain. My background in backend-focused web development allows me to bridge product needs with solid engineering — turning real business problems into working systems.
+I work primarily with Python to design APIs, data pipelines, and automation workflows that are reliable, scalable, and easy to maintain. My background in backend-focused web development allows me to bridge product needs with solid engineering, turning real business problems into working systems.
 
-I’m especially comfortable working under production pressure: reading existing codebases, refactoring legacy systems, improving performance, and shipping features that actually get used.
+I’m comfortable working under production pressure: reading existing codebases, refactoring legacy systems, improving performance, and shipping features that get used.
 
 ---
 
@@ -60,4 +60,3 @@ Reduced downtime by ~40% through refactoring, performance optimisation, and stab
 
 ---
 
-_Building systems that work, scale, and don’t break under pressure._
