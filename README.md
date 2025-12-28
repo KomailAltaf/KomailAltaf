@@ -1,63 +1,63 @@
-# 👋 Hey, I'm Komail Altaf
+# 👋 Hi, I’m Komail Altaf
 
-I’m a **Data Scientist** with over **6 years of experience** in **web development, backend systems, and automation**.  
-I specialize in turning complex data into actionable insights and building systems that are fast, reliable, and scalable.  
+I’m a **Backend Engineer (Python & Automation)** with **6+ years of professional experience**, building and maintaining production systems across web, backend, and data-heavy environments.
 
-My background web development helps me connect data science with real engineering automating workflows, improving performance, and creating solutions that actually make a difference.  
-I enjoy solving technical problems, optimizing processes, and learning new ways to make data work smarter.
+I work primarily with **Python** to design APIs, data pipelines, and automation workflows that are reliable, scalable, and easy to maintain. My background in backend-focused web development allows me to bridge product needs with solid engineering — turning real business problems into working systems.
 
----
-
-## 🛠️ Core Skills
-
-### 🔹 Programming
-- **Python**    
-- **SQL**    
-- **JavaScript & PHP**    
-- **Bash**   
-
-### 🔹 Data & Development Tools
-- **Power BI, Dash**    
-- **Docker, Jenkins**    
-- **FastAPI, Django**   
-- **Git/GitHub**   
-- **Linux, VS Code, Cursor**   
-
-### 🔹 Web Development 
-- Advanced **WordPress** development (themes, ACF, WooCommerce)  
-- Frontend optimization, performance debugging, and security  
-- REST API integration and backend refactoring  
+I’m especially comfortable working under production pressure: reading existing codebases, refactoring legacy systems, improving performance, and shipping features that actually get used.
 
 ---
 
-## 📊 Recent Work
+## 🛠️ Technical Focus
 
-**Data Scientist – HCKD (2025–Present)**  
-Working on automation and data analysis projects — using Python to streamline data pipelines, analyze performance metrics, and improve operational efficiency.  
+### 🔹 Backend & APIs
+- **Python**, **FastAPI**, **Django**
+- REST APIs, authentication, internal services
+- Data pipelines and background jobs
 
-**Web Developer – Between Collective (2022–2025)**  
-Developed and optimized WordPress-based platforms, improving performance and reducing downtime by 40%.  
-Enhanced user experience and functionality across multiple client websites.  
- 
+### 🔹 Data & Automation
+- **SQL** (PostgreSQL, MySQL)
+- Data cleaning, transformation, and structured processing
+- Automation scripts and workflow optimisation
 
----
+### 🔹 DevOps & Infrastructure
+- **Docker**, **Jenkins**, CI/CD pipelines
+- Linux environments
+- Monitoring and deployment support
 
-## 🎯 Focus Areas
-
-- Data cleaning and preprocessing  
-- Automation and backend intelligence  
-- Machine learning experiments  
-- Dashboarding and reporting  
-- Workflow optimization  
-
----
-
-## 🌍 Portfolio
-
-- [**GitHub**](https://github.com/KomailAltaf)  
-- [**LinkedIn**](https://www.linkedin.com/in/komail-altaf-6b99b419b)  
-- [**Email**](mailto:komdas82@gmail.com)
+### 🔹 Web & Systems
+- Backend-focused **WordPress** development (custom themes, ACF, integrations)
+- API integrations and system refactoring
+- Performance and reliability improvements
 
 ---
 
-_Always building, optimizing, and exploring how data and automation can make systems smarter._
+## 💼 Recent Experience
+
+**Backend & Data Engineer – HCKD (2025–Present)**  
+Building Python-based backend services, APIs, and automation pipelines used in production systems.  
+Working with SQL databases, Dockerised services, and CI/CD workflows to support internal tools and data flows.
+
+**Web Developer (Backend-Focused) – Between Collective (2022–2025)**  
+Developed custom backend features and system-level improvements for WordPress platforms.  
+Reduced downtime by ~40% through refactoring, performance optimisation, and stability improvements.
+
+---
+
+## 🎯 Current Interests
+- Backend system design
+- Scalable Python services
+- Automation and internal tooling
+- Data-heavy backend workflows
+- Production reliability and performance
+
+---
+
+## 🌍 Links
+- **GitHub:** https://github.com/KomailAltaf  
+- **LinkedIn:** https://www.linkedin.com/in/komail-altaf  
+- **Email:** mailto:komdas82@gmail.com  
+
+---
+
+_Building systems that work, scale, and don’t break under pressure._
