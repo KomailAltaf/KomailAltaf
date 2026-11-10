@@ -59,15 +59,20 @@ dbt, Airflow, advanced agent evaluation
 
 Data and AI: PySpark, Databricks, Delta Lake, RAG, LLM agents, ETL and data lineage.
 
-## GitHub stats
+## What I build
 
-<p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KomailAltaf&theme=github_dark" alt="GitHub profile details" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KomailAltaf&theme=github_dark" alt="Repos per language" />
-</p>
-<p>
-  <img height="170" src="https://streak-stats.demolab.com/?user=KomailAltaf&theme=github-dark&hide_border=true" alt="Contribution streak" />
-</p>
+Most of my work runs in private production systems, so here is what it looks like:
+
+- **Data pipelines at scale:** Python ETL moving 100M records per run, with automated validation, monitoring and lineage tracking, built on PostgreSQL, BigQuery and Databricks.
+- **LLM and RAG systems:** agentic workflows and retrieval pipelines that turn raw data into answers people can trust, with outputs checked against source data.
+- **Internal APIs:** FastAPI services for ingestion, transformation and reporting, designed for reliability and easy handover.
+- **Infrastructure:** self managed Linux servers, Docker and Jenkins CI/CD, with security hardening and monitoring.
+
+## How I work
+
+- I own systems end to end, from design to production incidents.
+- I measure impact: less manual QA, less downtime, more usage.
+- I document decisions so teams can run what I build without me.
 
 ## Tools I like
 
