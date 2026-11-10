@@ -34,18 +34,44 @@ Python tooling, RAG pipelines and cloud data workflows on AWS and GCP for client
 **Backend Engineer**, Between Collective (2022 to 2025)
 Python and PHP backend systems, API integrations, AI tooling and internal RAG tools.
 
-## Stack
+## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**I have**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mongodb,mysql,aws,gcp,docker,jenkins,linux,git,github&perline=7" alt="Skills" />
+
+</td>
+<td valign="top" width="50%">
+
+**I'm learning**
+
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform&perline=7" alt="Learning" />
+
+dbt, Airflow, advanced agent evaluation
+
+</td>
+</tr>
+</table>
+
+Data and AI: PySpark, Databricks, Delta Lake, RAG, LLM agents, ETL and data lineage.
+
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KomailAltaf&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomailAltaf&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+## Tools I like
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## Education
 
