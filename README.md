@@ -25,7 +25,7 @@ I build the data and AI systems that businesses depend on: pipelines that proces
 
 ## Experience
 
-**Senior Data & AI Engineer**, Arkem LLC (2025 to present)
+**Data & AI Engineer**, Arkem LLC (2025 to present)
 Own end to end data and AI engineering across multiple production systems, from pipelines to LLM analysis workflows and internal FastAPI services.
 
 **Data Engineering Consultant**, Independent (2022 to present)
