@@ -62,8 +62,11 @@ Data and AI: PySpark, Databricks, Delta Lake, RAG, LLM agents, ETL and data line
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KomailAltaf&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomailAltaf&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KomailAltaf&theme=github_dark" alt="GitHub profile details" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KomailAltaf&theme=github_dark" alt="Repos per language" />
+</p>
+<p>
+  <img height="170" src="https://streak-stats.demolab.com/?user=KomailAltaf&theme=github-dark&hide_border=true" alt="Contribution streak" />
 </p>
 
 ## Tools I like
